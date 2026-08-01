@@ -68,6 +68,7 @@ Contains experimental notebooks, including:
 ## Models Explored
 
 - Facebook ROBERT-LARGE
+- Trasnformer from Scratch
 - DeBERTa
 - LEXICAL Retrieval-Augmented Generation (RAG)-TFIDF based only
 
@@ -82,19 +83,6 @@ Contains experimental notebooks, including:
 - Pandas
 - NumPy
 - Weights & Biases (W&B)
-
----
-
-## Installation
-
-Clone the repository and install the required packages.
-
-```bash
-git clone <repository-url>
-cd <repository-name>
-
-pip install -r requirements.txt
-```
 
 ---
 
