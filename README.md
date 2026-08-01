@@ -41,7 +41,7 @@ The project explores:
 └── wandb-runs/
     ├── deberta-training.ipynb
     ├── facebook-bert.ipynb
-    └── rag-lexical.ipynb
+    └── for scratch model the wandb runs are present in the Main Notebook itself
 ```
 
 ---
