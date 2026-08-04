@@ -47,7 +47,7 @@ header {visibility:hidden;}
 </style>
 """, unsafe_allow_html=True)
 
-MODEL_NAME = "model_backup"
+MODEL_NAME = "24f3004935/smart-mcq-solver"
 
 @st.cache_resource
 def load_model():
