@@ -91,7 +91,7 @@ with st.sidebar:
 ### 🚀 Features
 
 - AI Powered MCQ Prediction
-- RoBERTa Large
+- DeBERTaV3 Large
 - Confidence Scores
 - PyTorch + Transformers
 - Streamlit
